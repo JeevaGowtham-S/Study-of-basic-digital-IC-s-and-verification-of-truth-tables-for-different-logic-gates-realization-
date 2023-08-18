@@ -77,12 +77,20 @@ endmodule
 */
 Logic symbol & Truthtable
 RTL realization:
+
+
 ![Screenshot 2023-08-18 090722](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/2180a7a2-fb26-4a4d-b927-56724a067ca3)
 
 
 Output:
-RTL
 ![Screenshot (119)](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/7e998d0c-ec90-47fe-9b17-26940997128a)
+
+## TRUTH TABLE:
+
+![Screenshot (120)](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/64057eb3-2a05-4c7d-a824-9ef20ffe1356)
+
+
+
 
 
 Result:
