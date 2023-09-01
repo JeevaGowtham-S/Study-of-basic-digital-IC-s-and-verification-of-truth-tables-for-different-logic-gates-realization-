@@ -86,6 +86,8 @@ endmodule
 ![Screenshot (119)](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/7e998d0c-ec90-47fe-9b17-26940997128a)
 
 ## TRUTH TABLE:
+![TT](https://github.com/JeevaGowtham-S/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118042624/d238a820-af2b-4366-a7b7-2ce0ab0bf584)
+
 
 
 
